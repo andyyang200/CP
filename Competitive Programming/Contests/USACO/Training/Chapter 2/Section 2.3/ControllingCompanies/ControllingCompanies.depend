@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416170558 source:c:\users\coding wizard\google drive\andy\usaco\training\chapter 2\section 2.3\controllingcompanies\main.cpp
+	<iostream>
+	<fstream>
+

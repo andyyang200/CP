@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factorials", "Factorials\Factorials.vcxproj", "{23EE130A-1B88-4B20-926D-3F722A0F74E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stringsobits", "Stringsobits\Stringsobits.vcxproj", "{55BC0760-00CC-4EF2-A5FC-7EBE040563F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spinning Wheels", "Spinning Wheels\Spinning Wheels.vcxproj", "{6B50E32C-8DE6-4A35-945F-791B7217D60C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Feed Ratios", "Feed Ratios\Feed Ratios.vcxproj", "{F15F7A30-355C-4DCD-B8DF-893EDC3AF90D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic Squares", "Magic Squares\Magic Squares.vcxproj", "{68560393-71B8-403D-8627-9FE599261A85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sweet Butter", "Sweet Butter\Sweet Butter.vcxproj", "{804A4105-4929-46BE-B214-44C5A22B59B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23EE130A-1B88-4B20-926D-3F722A0F74E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23EE130A-1B88-4B20-926D-3F722A0F74E6}.Debug|Win32.Build.0 = Debug|Win32
+		{23EE130A-1B88-4B20-926D-3F722A0F74E6}.Release|Win32.ActiveCfg = Release|Win32
+		{23EE130A-1B88-4B20-926D-3F722A0F74E6}.Release|Win32.Build.0 = Release|Win32
+		{55BC0760-00CC-4EF2-A5FC-7EBE040563F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55BC0760-00CC-4EF2-A5FC-7EBE040563F7}.Debug|Win32.Build.0 = Debug|Win32
+		{55BC0760-00CC-4EF2-A5FC-7EBE040563F7}.Release|Win32.ActiveCfg = Release|Win32
+		{55BC0760-00CC-4EF2-A5FC-7EBE040563F7}.Release|Win32.Build.0 = Release|Win32
+		{6B50E32C-8DE6-4A35-945F-791B7217D60C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B50E32C-8DE6-4A35-945F-791B7217D60C}.Debug|Win32.Build.0 = Debug|Win32
+		{6B50E32C-8DE6-4A35-945F-791B7217D60C}.Release|Win32.ActiveCfg = Release|Win32
+		{6B50E32C-8DE6-4A35-945F-791B7217D60C}.Release|Win32.Build.0 = Release|Win32
+		{F15F7A30-355C-4DCD-B8DF-893EDC3AF90D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F15F7A30-355C-4DCD-B8DF-893EDC3AF90D}.Debug|Win32.Build.0 = Debug|Win32
+		{F15F7A30-355C-4DCD-B8DF-893EDC3AF90D}.Release|Win32.ActiveCfg = Release|Win32
+		{F15F7A30-355C-4DCD-B8DF-893EDC3AF90D}.Release|Win32.Build.0 = Release|Win32
+		{68560393-71B8-403D-8627-9FE599261A85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68560393-71B8-403D-8627-9FE599261A85}.Debug|Win32.Build.0 = Debug|Win32
+		{68560393-71B8-403D-8627-9FE599261A85}.Release|Win32.ActiveCfg = Release|Win32
+		{68560393-71B8-403D-8627-9FE599261A85}.Release|Win32.Build.0 = Release|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.Build.0 = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.ActiveCfg = Release|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

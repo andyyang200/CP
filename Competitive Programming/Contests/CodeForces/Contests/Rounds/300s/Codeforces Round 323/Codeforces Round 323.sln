@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asphalting Roads", "Asphalting Roads\Asphalting Roads.vcxproj", "{1248984B-8CDB-4121-A3FE-B952AAA723C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Robot Task", "Robot Task\Robot Task.vcxproj", "{8C2990F1-CD65-443B-8DF9-016FC873C19D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GCD Table", "GCD Table\GCD Table.vcxproj", "{DA6EE7DC-3EF0-4EB6-A6E0-B2A1EA0D2A63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Once Again", "Once Again\Once Again.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Debug|Win32.Build.0 = Debug|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Release|Win32.ActiveCfg = Release|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Release|Win32.Build.0 = Release|Win32
+		{8C2990F1-CD65-443B-8DF9-016FC873C19D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C2990F1-CD65-443B-8DF9-016FC873C19D}.Debug|Win32.Build.0 = Debug|Win32
+		{8C2990F1-CD65-443B-8DF9-016FC873C19D}.Release|Win32.ActiveCfg = Release|Win32
+		{8C2990F1-CD65-443B-8DF9-016FC873C19D}.Release|Win32.Build.0 = Release|Win32
+		{DA6EE7DC-3EF0-4EB6-A6E0-B2A1EA0D2A63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA6EE7DC-3EF0-4EB6-A6E0-B2A1EA0D2A63}.Debug|Win32.Build.0 = Debug|Win32
+		{DA6EE7DC-3EF0-4EB6-A6E0-B2A1EA0D2A63}.Release|Win32.ActiveCfg = Release|Win32
+		{DA6EE7DC-3EF0-4EB6-A6E0-B2A1EA0D2A63}.Release|Win32.Build.0 = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Sheep", "Counting Sheep\Counting Sheep.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Revenge of the Pancakes", "Revenge of the Pancakes\Revenge of the Pancakes.vcxproj", "{A9DF52A7-0C02-452B-96A9-A5CAB36B314D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coin Jam", "Coin Jam\Coin Jam.vcxproj", "{93C2A3F6-4F74-42A3-BAE7-8E56ECCD2440}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fractiles", "Fractiles\Fractiles.vcxproj", "{9F7053B4-945F-489D-B2EE-8E64063314BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{A9DF52A7-0C02-452B-96A9-A5CAB36B314D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9DF52A7-0C02-452B-96A9-A5CAB36B314D}.Debug|Win32.Build.0 = Debug|Win32
+		{A9DF52A7-0C02-452B-96A9-A5CAB36B314D}.Release|Win32.ActiveCfg = Release|Win32
+		{A9DF52A7-0C02-452B-96A9-A5CAB36B314D}.Release|Win32.Build.0 = Release|Win32
+		{93C2A3F6-4F74-42A3-BAE7-8E56ECCD2440}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93C2A3F6-4F74-42A3-BAE7-8E56ECCD2440}.Debug|Win32.Build.0 = Debug|Win32
+		{93C2A3F6-4F74-42A3-BAE7-8E56ECCD2440}.Release|Win32.ActiveCfg = Release|Win32
+		{93C2A3F6-4F74-42A3-BAE7-8E56ECCD2440}.Release|Win32.Build.0 = Release|Win32
+		{9F7053B4-945F-489D-B2EE-8E64063314BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F7053B4-945F-489D-B2EE-8E64063314BB}.Debug|Win32.Build.0 = Debug|Win32
+		{9F7053B4-945F-489D-B2EE-8E64063314BB}.Release|Win32.ActiveCfg = Release|Win32
+		{9F7053B4-945F-489D-B2EE-8E64063314BB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

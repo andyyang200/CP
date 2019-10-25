@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB Flash Drives", "USB Flash Drives\USB Flash Drives.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The Best Gift", "The Best Gift\The Best Gift.vcxproj", "{B7C0B055-A5FC-4F4A-94D1-DEC224FA1EEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Load Balancing", "Load Balancing\Load Balancing.vcxproj", "{7F8FFA59-5C85-4F6D-A280-42062F4A3166}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gadgets", "Gadgets\Gadgets.vcxproj", "{E7501AEB-4E1E-4186-9EFB-CFE2EDF31131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{B7C0B055-A5FC-4F4A-94D1-DEC224FA1EEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C0B055-A5FC-4F4A-94D1-DEC224FA1EEA}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C0B055-A5FC-4F4A-94D1-DEC224FA1EEA}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C0B055-A5FC-4F4A-94D1-DEC224FA1EEA}.Release|Win32.Build.0 = Release|Win32
+		{7F8FFA59-5C85-4F6D-A280-42062F4A3166}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F8FFA59-5C85-4F6D-A280-42062F4A3166}.Debug|Win32.Build.0 = Debug|Win32
+		{7F8FFA59-5C85-4F6D-A280-42062F4A3166}.Release|Win32.ActiveCfg = Release|Win32
+		{7F8FFA59-5C85-4F6D-A280-42062F4A3166}.Release|Win32.Build.0 = Release|Win32
+		{E7501AEB-4E1E-4186-9EFB-CFE2EDF31131}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7501AEB-4E1E-4186-9EFB-CFE2EDF31131}.Debug|Win32.Build.0 = Debug|Win32
+		{E7501AEB-4E1E-4186-9EFB-CFE2EDF31131}.Release|Win32.ActiveCfg = Release|Win32
+		{E7501AEB-4E1E-4186-9EFB-CFE2EDF31131}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

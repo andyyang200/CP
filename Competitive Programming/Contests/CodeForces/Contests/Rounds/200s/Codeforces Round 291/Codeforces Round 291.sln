@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number", "temp\temp.vcxproj", "{0773AB9C-C344-41F3-98A2-4E473C63B781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lazer Gun", "Lazer Gun\Lazer Gun.vcxproj", "{BEBAA2E0-AD31-45F5-8B32-9DF63C714669}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mechanism", "Mechanism\Mechanism.vcxproj", "{B2E75F63-3902-4530-85E9-7137A6432277}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Droid Army", "Droid Army\Droid Army.vcxproj", "{127EA666-D7D4-406B-B46A-67B59D7AB983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.Build.0 = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.ActiveCfg = Release|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.Build.0 = Release|Win32
+		{BEBAA2E0-AD31-45F5-8B32-9DF63C714669}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEBAA2E0-AD31-45F5-8B32-9DF63C714669}.Debug|Win32.Build.0 = Debug|Win32
+		{BEBAA2E0-AD31-45F5-8B32-9DF63C714669}.Release|Win32.ActiveCfg = Release|Win32
+		{BEBAA2E0-AD31-45F5-8B32-9DF63C714669}.Release|Win32.Build.0 = Release|Win32
+		{B2E75F63-3902-4530-85E9-7137A6432277}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2E75F63-3902-4530-85E9-7137A6432277}.Debug|Win32.Build.0 = Debug|Win32
+		{B2E75F63-3902-4530-85E9-7137A6432277}.Release|Win32.ActiveCfg = Release|Win32
+		{B2E75F63-3902-4530-85E9-7137A6432277}.Release|Win32.Build.0 = Release|Win32
+		{127EA666-D7D4-406B-B46A-67B59D7AB983}.Debug|Win32.ActiveCfg = Debug|Win32
+		{127EA666-D7D4-406B-B46A-67B59D7AB983}.Debug|Win32.Build.0 = Debug|Win32
+		{127EA666-D7D4-406B-B46A-67B59D7AB983}.Release|Win32.ActiveCfg = Release|Win32
+		{127EA666-D7D4-406B-B46A-67B59D7AB983}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

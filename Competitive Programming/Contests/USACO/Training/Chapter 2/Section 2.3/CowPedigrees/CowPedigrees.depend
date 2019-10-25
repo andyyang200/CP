@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415845770 source:c:\users\coding wizard\google drive\andy\usaco\training\chapter 2\section 2.3\cowpedigrees\main.cpp
+	<iostream>
+	<fstream>
+

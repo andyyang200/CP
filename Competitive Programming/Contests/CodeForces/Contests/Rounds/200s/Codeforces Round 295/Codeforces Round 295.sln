@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pangram", "Pangram\Pangram.vcxproj", "{0773AB9C-C344-41F3-98A2-4E473C63B781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Buttons", "Two Buttons\Two Buttons.vcxproj", "{B98CE4C1-E677-40F5-94AD-CB85F7922F5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DNA Alignment", "DNA Alignment\DNA Alignment.vcxproj", "{CC33F35E-2ECF-4D56-A520-1A28CC378F2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cubes", "Cubes\Cubes.vcxproj", "{FF2C8BE0-E707-402D-BACF-AFADC75F4651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.Build.0 = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.ActiveCfg = Release|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.Build.0 = Release|Win32
+		{B98CE4C1-E677-40F5-94AD-CB85F7922F5E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B98CE4C1-E677-40F5-94AD-CB85F7922F5E}.Debug|Win32.Build.0 = Debug|Win32
+		{B98CE4C1-E677-40F5-94AD-CB85F7922F5E}.Release|Win32.ActiveCfg = Release|Win32
+		{B98CE4C1-E677-40F5-94AD-CB85F7922F5E}.Release|Win32.Build.0 = Release|Win32
+		{CC33F35E-2ECF-4D56-A520-1A28CC378F2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC33F35E-2ECF-4D56-A520-1A28CC378F2E}.Debug|Win32.Build.0 = Debug|Win32
+		{CC33F35E-2ECF-4D56-A520-1A28CC378F2E}.Release|Win32.ActiveCfg = Release|Win32
+		{CC33F35E-2ECF-4D56-A520-1A28CC378F2E}.Release|Win32.Build.0 = Release|Win32
+		{FF2C8BE0-E707-402D-BACF-AFADC75F4651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF2C8BE0-E707-402D-BACF-AFADC75F4651}.Debug|Win32.Build.0 = Debug|Win32
+		{FF2C8BE0-E707-402D-BACF-AFADC75F4651}.Release|Win32.ActiveCfg = Release|Win32
+		{FF2C8BE0-E707-402D-BACF-AFADC75F4651}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

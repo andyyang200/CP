@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pixels", "Contest Template1\Contest Template1.vcxproj", "{0773AB9C-C344-41F3-98A2-4E473C63B781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Currency", "Currency\Currency.vcxproj", "{817DAD90-8E19-4EBE-ADBE-04454CFAAE92}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ghosts", "Ghosts\Ghosts.vcxproj", "{6B664F40-7BB7-4D56-90E8-8C20E55486B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Password", "Password\Password.vcxproj", "{291EA09E-D500-4AE0-B3E5-853D100CAB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.Build.0 = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.ActiveCfg = Release|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.Build.0 = Release|Win32
+		{817DAD90-8E19-4EBE-ADBE-04454CFAAE92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{817DAD90-8E19-4EBE-ADBE-04454CFAAE92}.Debug|Win32.Build.0 = Debug|Win32
+		{817DAD90-8E19-4EBE-ADBE-04454CFAAE92}.Release|Win32.ActiveCfg = Release|Win32
+		{817DAD90-8E19-4EBE-ADBE-04454CFAAE92}.Release|Win32.Build.0 = Release|Win32
+		{6B664F40-7BB7-4D56-90E8-8C20E55486B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B664F40-7BB7-4D56-90E8-8C20E55486B9}.Debug|Win32.Build.0 = Debug|Win32
+		{6B664F40-7BB7-4D56-90E8-8C20E55486B9}.Release|Win32.ActiveCfg = Release|Win32
+		{6B664F40-7BB7-4D56-90E8-8C20E55486B9}.Release|Win32.Build.0 = Release|Win32
+		{291EA09E-D500-4AE0-B3E5-853D100CAB9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{291EA09E-D500-4AE0-B3E5-853D100CAB9F}.Debug|Win32.Build.0 = Debug|Win32
+		{291EA09E-D500-4AE0-B3E5-853D100CAB9F}.Release|Win32.ActiveCfg = Release|Win32
+		{291EA09E-D500-4AE0-B3E5-853D100CAB9F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

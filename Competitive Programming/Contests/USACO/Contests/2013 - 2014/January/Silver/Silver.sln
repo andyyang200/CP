@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bessie Slows Down", "Bessie Slows Down\Bessie Slows Down.vcxproj", "{804A4105-4929-46BE-B214-44C5A22B59B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cross Country Skiing", "Cross Country Skiing\Cross Country Skiing.vcxproj", "{85A49B0F-E95C-41E1-9E3A-0A737BA05B47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recording the Moolympics", "Recording the Moolympics\Recording the Moolympics.vcxproj", "{0F2466C0-C902-4BE3-A900-13F60A9F5947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.Build.0 = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.ActiveCfg = Release|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.Build.0 = Release|Win32
+		{85A49B0F-E95C-41E1-9E3A-0A737BA05B47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85A49B0F-E95C-41E1-9E3A-0A737BA05B47}.Debug|Win32.Build.0 = Debug|Win32
+		{85A49B0F-E95C-41E1-9E3A-0A737BA05B47}.Release|Win32.ActiveCfg = Release|Win32
+		{85A49B0F-E95C-41E1-9E3A-0A737BA05B47}.Release|Win32.Build.0 = Release|Win32
+		{0F2466C0-C902-4BE3-A900-13F60A9F5947}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F2466C0-C902-4BE3-A900-13F60A9F5947}.Debug|Win32.Build.0 = Debug|Win32
+		{0F2466C0-C902-4BE3-A900-13F60A9F5947}.Release|Win32.ActiveCfg = Release|Win32
+		{0F2466C0-C902-4BE3-A900-13F60A9F5947}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

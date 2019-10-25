@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Link Cut Tree", "Link Cut Tree\Link Cut Tree.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gena's Code", "Gena's Code\Gena's Code.vcxproj", "{DA5F1621-A55E-4CE7-BFD7-8776F673767D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Peter and Snow Blower", "Peter and Snow Blower\Peter and Snow Blower.vcxproj", "{63FBF569-E6B3-40A0-A6F4-5B8B817EDAA2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skills", "Skills\Skills.vcxproj", "{D7CD2BCB-4977-400F-9A47-5F3468671665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{DA5F1621-A55E-4CE7-BFD7-8776F673767D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA5F1621-A55E-4CE7-BFD7-8776F673767D}.Debug|Win32.Build.0 = Debug|Win32
+		{DA5F1621-A55E-4CE7-BFD7-8776F673767D}.Release|Win32.ActiveCfg = Release|Win32
+		{DA5F1621-A55E-4CE7-BFD7-8776F673767D}.Release|Win32.Build.0 = Release|Win32
+		{63FBF569-E6B3-40A0-A6F4-5B8B817EDAA2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63FBF569-E6B3-40A0-A6F4-5B8B817EDAA2}.Debug|Win32.Build.0 = Debug|Win32
+		{63FBF569-E6B3-40A0-A6F4-5B8B817EDAA2}.Release|Win32.ActiveCfg = Release|Win32
+		{63FBF569-E6B3-40A0-A6F4-5B8B817EDAA2}.Release|Win32.Build.0 = Release|Win32
+		{D7CD2BCB-4977-400F-9A47-5F3468671665}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7CD2BCB-4977-400F-9A47-5F3468671665}.Debug|Win32.Build.0 = Debug|Win32
+		{D7CD2BCB-4977-400F-9A47-5F3468671665}.Release|Win32.ActiveCfg = Release|Win32
+		{D7CD2BCB-4977-400F-9A47-5F3468671665}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Currency System in Geraldion", "Currency System in Geraldion\Currency System in Geraldion.vcxproj", "{1248984B-8CDB-4121-A3FE-B952AAA723C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gerald is into Art", "Gerald is into Art\Gerald is into Art.vcxproj", "{F3CA2DF9-42BB-428B-BD56-404BC8F7A89C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gerald's Hexagon", "Gerald's Hexagon\Gerald's Hexagon.vcxproj", "{A6416988-0F59-47E7-AE25-D73F63ECF51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Debug|Win32.Build.0 = Debug|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Release|Win32.ActiveCfg = Release|Win32
+		{1248984B-8CDB-4121-A3FE-B952AAA723C4}.Release|Win32.Build.0 = Release|Win32
+		{F3CA2DF9-42BB-428B-BD56-404BC8F7A89C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3CA2DF9-42BB-428B-BD56-404BC8F7A89C}.Debug|Win32.Build.0 = Debug|Win32
+		{F3CA2DF9-42BB-428B-BD56-404BC8F7A89C}.Release|Win32.ActiveCfg = Release|Win32
+		{F3CA2DF9-42BB-428B-BD56-404BC8F7A89C}.Release|Win32.Build.0 = Release|Win32
+		{A6416988-0F59-47E7-AE25-D73F63ECF51D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6416988-0F59-47E7-AE25-D73F63ECF51D}.Debug|Win32.Build.0 = Debug|Win32
+		{A6416988-0F59-47E7-AE25-D73F63ECF51D}.Release|Win32.ActiveCfg = Release|Win32
+		{A6416988-0F59-47E7-AE25-D73F63ECF51D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

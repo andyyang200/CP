@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Slime Combining", "Slime Combining\Slime Combining.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess the Permutation", "Guess the Permutation\Guess the Permutation.vcxproj", "{A3ECCE02-0297-4FAA-9745-C210D2CB0D95}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constellation", "Constellation\Constellation.vcxproj", "{6579B2BF-A399-4DEA-995C-A44BAC3C230E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{A3ECCE02-0297-4FAA-9745-C210D2CB0D95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3ECCE02-0297-4FAA-9745-C210D2CB0D95}.Debug|Win32.Build.0 = Debug|Win32
+		{A3ECCE02-0297-4FAA-9745-C210D2CB0D95}.Release|Win32.ActiveCfg = Release|Win32
+		{A3ECCE02-0297-4FAA-9745-C210D2CB0D95}.Release|Win32.Build.0 = Release|Win32
+		{6579B2BF-A399-4DEA-995C-A44BAC3C230E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6579B2BF-A399-4DEA-995C-A44BAC3C230E}.Debug|Win32.Build.0 = Debug|Win32
+		{6579B2BF-A399-4DEA-995C-A44BAC3C230E}.Release|Win32.ActiveCfg = Release|Win32
+		{6579B2BF-A399-4DEA-995C-A44BAC3C230E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

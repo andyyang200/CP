@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Year Transportation", "New Year Transportation\New Year Transportation.vcxproj", "{804A4105-4929-46BE-B214-44C5A22B59B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Year Permutation", "New Year Permutation\New Year Permutation.vcxproj", "{7684A2ED-4325-4C29-9567-6A006D194C75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Year Book Reading", "New Year Book Reading\New Year Book Reading.vcxproj", "{DB2157A5-8761-41E6-B092-EDEF8FA9181E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Year Domino", "New Year Domino\New Year Domino.vcxproj", "{CCE01CAE-1597-4F93-AB50-F2091F17E110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Debug|Win32.Build.0 = Debug|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.ActiveCfg = Release|Win32
+		{804A4105-4929-46BE-B214-44C5A22B59B2}.Release|Win32.Build.0 = Release|Win32
+		{7684A2ED-4325-4C29-9567-6A006D194C75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7684A2ED-4325-4C29-9567-6A006D194C75}.Debug|Win32.Build.0 = Debug|Win32
+		{7684A2ED-4325-4C29-9567-6A006D194C75}.Release|Win32.ActiveCfg = Release|Win32
+		{7684A2ED-4325-4C29-9567-6A006D194C75}.Release|Win32.Build.0 = Release|Win32
+		{DB2157A5-8761-41E6-B092-EDEF8FA9181E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB2157A5-8761-41E6-B092-EDEF8FA9181E}.Debug|Win32.Build.0 = Debug|Win32
+		{DB2157A5-8761-41E6-B092-EDEF8FA9181E}.Release|Win32.ActiveCfg = Release|Win32
+		{DB2157A5-8761-41E6-B092-EDEF8FA9181E}.Release|Win32.Build.0 = Release|Win32
+		{CCE01CAE-1597-4F93-AB50-F2091F17E110}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCE01CAE-1597-4F93-AB50-F2091F17E110}.Debug|Win32.Build.0 = Debug|Win32
+		{CCE01CAE-1597-4F93-AB50-F2091F17E110}.Release|Win32.ActiveCfg = Release|Win32
+		{CCE01CAE-1597-4F93-AB50-F2091F17E110}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

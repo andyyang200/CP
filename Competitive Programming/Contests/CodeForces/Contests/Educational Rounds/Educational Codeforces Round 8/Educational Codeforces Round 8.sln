@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tennis Tournament", "Tennis Tournament\Tennis Tournament.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Skateboard", "New Skateboard\New Skateboard.vcxproj", "{9B2FE968-7AC1-482E-841A-5A7C24965008}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bear and String Distance", "Bear and String Distance\Bear and String Distance.vcxproj", "{D38A3B57-B8DD-4380-B6A9-A1B252E834A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic Numbers", "Magic Numbers\Magic Numbers.vcxproj", "{2163AB2F-7F3C-4D4B-9B79-637FC92D2BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{9B2FE968-7AC1-482E-841A-5A7C24965008}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B2FE968-7AC1-482E-841A-5A7C24965008}.Debug|Win32.Build.0 = Debug|Win32
+		{9B2FE968-7AC1-482E-841A-5A7C24965008}.Release|Win32.ActiveCfg = Release|Win32
+		{9B2FE968-7AC1-482E-841A-5A7C24965008}.Release|Win32.Build.0 = Release|Win32
+		{D38A3B57-B8DD-4380-B6A9-A1B252E834A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D38A3B57-B8DD-4380-B6A9-A1B252E834A4}.Debug|Win32.Build.0 = Debug|Win32
+		{D38A3B57-B8DD-4380-B6A9-A1B252E834A4}.Release|Win32.ActiveCfg = Release|Win32
+		{D38A3B57-B8DD-4380-B6A9-A1B252E834A4}.Release|Win32.Build.0 = Release|Win32
+		{2163AB2F-7F3C-4D4B-9B79-637FC92D2BD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2163AB2F-7F3C-4D4B-9B79-637FC92D2BD7}.Debug|Win32.Build.0 = Debug|Win32
+		{2163AB2F-7F3C-4D4B-9B79-637FC92D2BD7}.Release|Win32.ActiveCfg = Release|Win32
+		{2163AB2F-7F3C-4D4B-9B79-637FC92D2BD7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

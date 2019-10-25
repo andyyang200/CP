@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agri-Net", "Agri-Net\Agri-Net.vcxproj", "{F3DD8DD2-F281-434E-A20D-945511B99C99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Score Inflation", "Score Inflation\Score Inflation.vcxproj", "{AF472766-4F2F-4D56-AB38-8769FB61BACA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Humble Numbers", "Humble Numbers\Humble Numbers.vcxproj", "{30886DF1-31C7-4936-9BEF-BEEF35FE8357}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stamps", "Stamps\Stamps.vcxproj", "{D481F037-BFCD-4B3C-95A0-8190DADC1480}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contact", "Contact\Contact.vcxproj", "{C2B5E1C1-A385-47B2-95D9-479BC16D4235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Debug|Win32.Build.0 = Debug|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Release|Win32.ActiveCfg = Release|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Release|Win32.Build.0 = Release|Win32
+		{AF472766-4F2F-4D56-AB38-8769FB61BACA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF472766-4F2F-4D56-AB38-8769FB61BACA}.Debug|Win32.Build.0 = Debug|Win32
+		{AF472766-4F2F-4D56-AB38-8769FB61BACA}.Release|Win32.ActiveCfg = Release|Win32
+		{AF472766-4F2F-4D56-AB38-8769FB61BACA}.Release|Win32.Build.0 = Release|Win32
+		{30886DF1-31C7-4936-9BEF-BEEF35FE8357}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30886DF1-31C7-4936-9BEF-BEEF35FE8357}.Debug|Win32.Build.0 = Debug|Win32
+		{30886DF1-31C7-4936-9BEF-BEEF35FE8357}.Release|Win32.ActiveCfg = Release|Win32
+		{30886DF1-31C7-4936-9BEF-BEEF35FE8357}.Release|Win32.Build.0 = Release|Win32
+		{D481F037-BFCD-4B3C-95A0-8190DADC1480}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D481F037-BFCD-4B3C-95A0-8190DADC1480}.Debug|Win32.Build.0 = Debug|Win32
+		{D481F037-BFCD-4B3C-95A0-8190DADC1480}.Release|Win32.ActiveCfg = Release|Win32
+		{D481F037-BFCD-4B3C-95A0-8190DADC1480}.Release|Win32.Build.0 = Release|Win32
+		{C2B5E1C1-A385-47B2-95D9-479BC16D4235}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2B5E1C1-A385-47B2-95D9-479BC16D4235}.Debug|Win32.Build.0 = Debug|Win32
+		{C2B5E1C1-A385-47B2-95D9-479BC16D4235}.Release|Win32.ActiveCfg = Release|Win32
+		{C2B5E1C1-A385-47B2-95D9-479BC16D4235}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

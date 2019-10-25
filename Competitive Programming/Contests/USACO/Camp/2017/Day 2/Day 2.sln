@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cow Wardrobe", "Cow Wardrobe\Cow Wardrobe.vcxproj", "{6570A396-CA50-4B64-A0CA-81477BD3E78F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lazy Bubble Sort", "Lazy Bubble Sort\Lazy Bubble Sort.vcxproj", "{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cookie Clicker", "Cookie Clicker\Cookie Clicker.vcxproj", "{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Debug|x64.ActiveCfg = Debug|x64
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Debug|x64.Build.0 = Debug|x64
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Debug|x86.Build.0 = Debug|Win32
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Release|x64.ActiveCfg = Release|x64
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Release|x64.Build.0 = Release|x64
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Release|x86.ActiveCfg = Release|Win32
+		{6570A396-CA50-4B64-A0CA-81477BD3E78F}.Release|x86.Build.0 = Release|Win32
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Debug|x64.ActiveCfg = Debug|x64
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Debug|x64.Build.0 = Debug|x64
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Debug|x86.Build.0 = Debug|Win32
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Release|x64.ActiveCfg = Release|x64
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Release|x64.Build.0 = Release|x64
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Release|x86.ActiveCfg = Release|Win32
+		{CA957908-CAAD-4D01-B5F2-FE375EEE33BD}.Release|x86.Build.0 = Release|Win32
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Debug|x64.ActiveCfg = Debug|x64
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Debug|x64.Build.0 = Debug|x64
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Debug|x86.Build.0 = Debug|Win32
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Release|x64.ActiveCfg = Release|x64
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Release|x64.Build.0 = Release|x64
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Release|x86.ActiveCfg = Release|Win32
+		{0F4D30CC-2A71-4B7A-AC55-0758BD3DFBBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

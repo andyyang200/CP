@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balls", "Balls\Balls.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The One With The Queries", "The One With The Queries\The One With The Queries.vcxproj", "{81885C66-4F7E-4A2E-8324-8641E7E498ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Delivering Candies", "Delivering Candies\Delivering Candies.vcxproj", "{DD53EC12-175C-4866-923E-BE9CF3E68826}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Easy Linear Recurrences", "Easy Linear Recurrences\Easy Linear Recurrences.vcxproj", "{52BA70A1-711C-4621-97B0-6F67D46F66D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{81885C66-4F7E-4A2E-8324-8641E7E498ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81885C66-4F7E-4A2E-8324-8641E7E498ED}.Debug|Win32.Build.0 = Debug|Win32
+		{81885C66-4F7E-4A2E-8324-8641E7E498ED}.Release|Win32.ActiveCfg = Release|Win32
+		{81885C66-4F7E-4A2E-8324-8641E7E498ED}.Release|Win32.Build.0 = Release|Win32
+		{DD53EC12-175C-4866-923E-BE9CF3E68826}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD53EC12-175C-4866-923E-BE9CF3E68826}.Debug|Win32.Build.0 = Debug|Win32
+		{DD53EC12-175C-4866-923E-BE9CF3E68826}.Release|Win32.ActiveCfg = Release|Win32
+		{DD53EC12-175C-4866-923E-BE9CF3E68826}.Release|Win32.Build.0 = Release|Win32
+		{52BA70A1-711C-4621-97B0-6F67D46F66D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52BA70A1-711C-4621-97B0-6F67D46F66D4}.Debug|Win32.Build.0 = Debug|Win32
+		{52BA70A1-711C-4621-97B0-6F67D46F66D4}.Release|Win32.ActiveCfg = Release|Win32
+		{52BA70A1-711C-4621-97B0-6F67D46F66D4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

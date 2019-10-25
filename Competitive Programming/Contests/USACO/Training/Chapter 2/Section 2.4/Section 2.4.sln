@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The Tamworth Two", "The Tamworth Two\The Tamworth Two.vcxproj", "{8E7CB613-899A-4BC7-90ED-2B4A6E3322E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overfencing", "Overfencing\Overfencing.vcxproj", "{E46D12B4-6A56-48BB-83B2-C7043512884E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9C4F132-CA85-4144-8995-59FC5D214AAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cow Tours", "Cow Tours\Cow Tours.vcxproj", "{F1FE8FAD-0F28-4182-837B-740E2AB61FCC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bessie Come Home", "Bessie Come Home\Bessie Come Home.vcxproj", "{58C6934B-74F9-4F5F-A022-DEAF7E9FB8CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fractions to Decimals", "Fractions to Decimals\Fractions to Decimals.vcxproj", "{F3DD8DD2-F281-434E-A20D-945511B99C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7CB613-899A-4BC7-90ED-2B4A6E3322E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E7CB613-899A-4BC7-90ED-2B4A6E3322E0}.Debug|Win32.Build.0 = Debug|Win32
+		{8E7CB613-899A-4BC7-90ED-2B4A6E3322E0}.Release|Win32.ActiveCfg = Release|Win32
+		{8E7CB613-899A-4BC7-90ED-2B4A6E3322E0}.Release|Win32.Build.0 = Release|Win32
+		{E46D12B4-6A56-48BB-83B2-C7043512884E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E46D12B4-6A56-48BB-83B2-C7043512884E}.Debug|Win32.Build.0 = Debug|Win32
+		{E46D12B4-6A56-48BB-83B2-C7043512884E}.Release|Win32.ActiveCfg = Release|Win32
+		{E46D12B4-6A56-48BB-83B2-C7043512884E}.Release|Win32.Build.0 = Release|Win32
+		{F1FE8FAD-0F28-4182-837B-740E2AB61FCC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1FE8FAD-0F28-4182-837B-740E2AB61FCC}.Debug|Win32.Build.0 = Debug|Win32
+		{F1FE8FAD-0F28-4182-837B-740E2AB61FCC}.Release|Win32.ActiveCfg = Release|Win32
+		{F1FE8FAD-0F28-4182-837B-740E2AB61FCC}.Release|Win32.Build.0 = Release|Win32
+		{58C6934B-74F9-4F5F-A022-DEAF7E9FB8CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58C6934B-74F9-4F5F-A022-DEAF7E9FB8CD}.Debug|Win32.Build.0 = Debug|Win32
+		{58C6934B-74F9-4F5F-A022-DEAF7E9FB8CD}.Release|Win32.ActiveCfg = Release|Win32
+		{58C6934B-74F9-4F5F-A022-DEAF7E9FB8CD}.Release|Win32.Build.0 = Release|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Debug|Win32.Build.0 = Debug|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Release|Win32.ActiveCfg = Release|Win32
+		{F3DD8DD2-F281-434E-A20D-945511B99C99}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

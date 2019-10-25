@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cutting Banner", "Cutting Banner\Cutting Banner.vcxproj", "{BE559148-5038-465E-9896-EEACE09DBDD0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary", "Binary\Binary.vcxproj", "{8EFAD5F0-48C1-4A4A-9A19-AB7E379299DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tourist", "Tourist\Tourist.vcxproj", "{3FFE283E-320F-4461-AFFC-F7E4F22BAF29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess", "Chess\Chess.vcxproj", "{41DD1F7A-AAC2-4E0F-A1AB-0EF23B31CC3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Robot", "Robot\Robot.vcxproj", "{2651C5E8-0AAA-428D-8C60-451722284D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Debug|Win32.Build.0 = Debug|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Release|Win32.ActiveCfg = Release|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Release|Win32.Build.0 = Release|Win32
+		{8EFAD5F0-48C1-4A4A-9A19-AB7E379299DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EFAD5F0-48C1-4A4A-9A19-AB7E379299DF}.Debug|Win32.Build.0 = Debug|Win32
+		{8EFAD5F0-48C1-4A4A-9A19-AB7E379299DF}.Release|Win32.ActiveCfg = Release|Win32
+		{8EFAD5F0-48C1-4A4A-9A19-AB7E379299DF}.Release|Win32.Build.0 = Release|Win32
+		{3FFE283E-320F-4461-AFFC-F7E4F22BAF29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FFE283E-320F-4461-AFFC-F7E4F22BAF29}.Debug|Win32.Build.0 = Debug|Win32
+		{3FFE283E-320F-4461-AFFC-F7E4F22BAF29}.Release|Win32.ActiveCfg = Release|Win32
+		{3FFE283E-320F-4461-AFFC-F7E4F22BAF29}.Release|Win32.Build.0 = Release|Win32
+		{41DD1F7A-AAC2-4E0F-A1AB-0EF23B31CC3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41DD1F7A-AAC2-4E0F-A1AB-0EF23B31CC3C}.Debug|Win32.Build.0 = Debug|Win32
+		{41DD1F7A-AAC2-4E0F-A1AB-0EF23B31CC3C}.Release|Win32.ActiveCfg = Release|Win32
+		{41DD1F7A-AAC2-4E0F-A1AB-0EF23B31CC3C}.Release|Win32.Build.0 = Release|Win32
+		{2651C5E8-0AAA-428D-8C60-451722284D0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2651C5E8-0AAA-428D-8C60-451722284D0C}.Debug|Win32.Build.0 = Debug|Win32
+		{2651C5E8-0AAA-428D-8C60-451722284D0C}.Release|Win32.ActiveCfg = Release|Win32
+		{2651C5E8-0AAA-428D-8C60-451722284D0C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

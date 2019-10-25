@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hopscotch", "Hopscotch\Hopscotch.vcxproj", "{0773AB9C-C344-41F3-98A2-4E473C63B781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Censoring", "Censor\Censor.vcxproj", "{6657D43C-0FE1-413C-947F-8FCCEB6E9FE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fencing", "Fencing\Fencing.vcxproj", "{C31B5C4F-A075-44E3-A762-0B98F763F636}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{747AB6B2-3F89-4807-A17E-A4E726D6BF99}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contest Template1", "Contest Template1\Contest Template1.vcxproj", "{BE559148-5038-465E-9896-EEACE09DBDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Debug|Win32.Build.0 = Debug|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.ActiveCfg = Release|Win32
+		{0773AB9C-C344-41F3-98A2-4E473C63B781}.Release|Win32.Build.0 = Release|Win32
+		{6657D43C-0FE1-413C-947F-8FCCEB6E9FE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6657D43C-0FE1-413C-947F-8FCCEB6E9FE0}.Debug|Win32.Build.0 = Debug|Win32
+		{6657D43C-0FE1-413C-947F-8FCCEB6E9FE0}.Release|Win32.ActiveCfg = Release|Win32
+		{6657D43C-0FE1-413C-947F-8FCCEB6E9FE0}.Release|Win32.Build.0 = Release|Win32
+		{C31B5C4F-A075-44E3-A762-0B98F763F636}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C31B5C4F-A075-44E3-A762-0B98F763F636}.Debug|Win32.Build.0 = Debug|Win32
+		{C31B5C4F-A075-44E3-A762-0B98F763F636}.Release|Win32.ActiveCfg = Release|Win32
+		{C31B5C4F-A075-44E3-A762-0B98F763F636}.Release|Win32.Build.0 = Release|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Debug|Win32.Build.0 = Debug|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Release|Win32.ActiveCfg = Release|Win32
+		{BE559148-5038-465E-9896-EEACE09DBDD0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

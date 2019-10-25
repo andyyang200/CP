@@ -1,0 +1,56 @@
+#include <iostream>
+#include <stdio.h>
+#include <sstream>
+#include <fstream>
+#include <string>
+#include <string.h>
+#include <vector>
+#include <deque>
+#include <queue>
+#include <stack>
+#include <set>
+#include <map>
+#include <algorithm>
+#include <functional>
+#include <utility>
+#include <bitset>
+#include <cmath>
+#include <cstdlib>
+#include <ctime>
+#include <cstdio>
+#include <climits>
+using namespace std;
+#define FOR(index, start, end) for(int index = start; index < end; index++)
+#define RFOR(index, start, end) for(int index = start; index > end; index--)
+#define FOREACH(itr, b) for(auto& itr = b.begin(); itr != b.end(); itr++)
+#define RFOREACH(itr, b) for(auto& itr = b.rbegin(); itr != b.rend; itr++)
+typedef long long ll;
+
+ll endPosition[100005];
+
+int main()
+{
+	freopen("cowjog.in", "r", stdin);
+	freopen("cowjog.out", "w", stdout);
+	ll n, t;
+	cin >> n >> t;
+	FOR(i, 0, n)
+	{
+		ll s, p;
+		cin >> p >> s;
+		endPosition[i] = p + t * s;
+	}
+	int count = 1;
+	RFOR(i, n - 2, -1)
+	{
+		if (endPosition[i] >= endPosition[i + 1])
+		{
+			endPosition[i] = endPosition[i + 1];
+		}
+		else
+		{
+			count++;
+		}
+	}
+	cout << count << endl;
+}

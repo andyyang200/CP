@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Round House", "Round House\Round House.vcxproj", "{777B6B62-5506-4E40-A8BF-16E0E37B69A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qualifying Contest", "Qualifying Contest\Qualifying Contest.vcxproj", "{4F53F846-0CB4-4B9A-BF0B-465EC548221B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tanya and Toys", "Tanya and Toys\Tanya and Toys.vcxproj", "{E88F56A9-F75F-40E7-B8EC-B1951109AA74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bicycle Race", "Bicycle Race\Bicycle Race.vcxproj", "{AE1054FC-A1A3-41CB-A043-450326C4DDF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New Reform", "New Reform\New Reform.vcxproj", "{A3D51445-B563-4442-BF5C-5E3FAC27DD9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polycarp and Hay", "Polycarp and Hay\Polycarp and Hay.vcxproj", "{4FF4FF17-51D7-4910-ACE3-C27A60DC7FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Debug|Win32.Build.0 = Debug|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.ActiveCfg = Release|Win32
+		{777B6B62-5506-4E40-A8BF-16E0E37B69A7}.Release|Win32.Build.0 = Release|Win32
+		{4F53F846-0CB4-4B9A-BF0B-465EC548221B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F53F846-0CB4-4B9A-BF0B-465EC548221B}.Debug|Win32.Build.0 = Debug|Win32
+		{4F53F846-0CB4-4B9A-BF0B-465EC548221B}.Release|Win32.ActiveCfg = Release|Win32
+		{4F53F846-0CB4-4B9A-BF0B-465EC548221B}.Release|Win32.Build.0 = Release|Win32
+		{E88F56A9-F75F-40E7-B8EC-B1951109AA74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E88F56A9-F75F-40E7-B8EC-B1951109AA74}.Debug|Win32.Build.0 = Debug|Win32
+		{E88F56A9-F75F-40E7-B8EC-B1951109AA74}.Release|Win32.ActiveCfg = Release|Win32
+		{E88F56A9-F75F-40E7-B8EC-B1951109AA74}.Release|Win32.Build.0 = Release|Win32
+		{AE1054FC-A1A3-41CB-A043-450326C4DDF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE1054FC-A1A3-41CB-A043-450326C4DDF2}.Debug|Win32.Build.0 = Debug|Win32
+		{AE1054FC-A1A3-41CB-A043-450326C4DDF2}.Release|Win32.ActiveCfg = Release|Win32
+		{AE1054FC-A1A3-41CB-A043-450326C4DDF2}.Release|Win32.Build.0 = Release|Win32
+		{A3D51445-B563-4442-BF5C-5E3FAC27DD9C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3D51445-B563-4442-BF5C-5E3FAC27DD9C}.Debug|Win32.Build.0 = Debug|Win32
+		{A3D51445-B563-4442-BF5C-5E3FAC27DD9C}.Release|Win32.ActiveCfg = Release|Win32
+		{A3D51445-B563-4442-BF5C-5E3FAC27DD9C}.Release|Win32.Build.0 = Release|Win32
+		{4FF4FF17-51D7-4910-ACE3-C27A60DC7FD5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FF4FF17-51D7-4910-ACE3-C27A60DC7FD5}.Debug|Win32.Build.0 = Debug|Win32
+		{4FF4FF17-51D7-4910-ACE3-C27A60DC7FD5}.Release|Win32.ActiveCfg = Release|Win32
+		{4FF4FF17-51D7-4910-ACE3-C27A60DC7FD5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415750913 source:c:\users\coding wizard\google drive\andy\usaco\training\chapter 2\section 2.3\thelongestprefix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+

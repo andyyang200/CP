@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fredo and Game", "Fredo and Game\Fredo and Game.vcxproj", "{9F001694-ADCC-40F6-92C4-698DF6F45743}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Help Fredo", "Help Fredo\Help Fredo.vcxproj", "{F4D40030-CB68-40FF-9623-FD66412FBA05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Worse MST", "Worse MST\Worse MST.vcxproj", "{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fredo and Maths", "Fredo and Maths\Fredo and Maths.vcxproj", "{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Debug|x64.ActiveCfg = Debug|x64
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Debug|x64.Build.0 = Debug|x64
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Debug|x86.Build.0 = Debug|Win32
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Release|x64.ActiveCfg = Release|x64
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Release|x64.Build.0 = Release|x64
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Release|x86.ActiveCfg = Release|Win32
+		{9F001694-ADCC-40F6-92C4-698DF6F45743}.Release|x86.Build.0 = Release|Win32
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Debug|x64.ActiveCfg = Debug|x64
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Debug|x64.Build.0 = Debug|x64
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Debug|x86.Build.0 = Debug|Win32
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Release|x64.ActiveCfg = Release|x64
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Release|x64.Build.0 = Release|x64
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Release|x86.ActiveCfg = Release|Win32
+		{F4D40030-CB68-40FF-9623-FD66412FBA05}.Release|x86.Build.0 = Release|Win32
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Debug|x64.ActiveCfg = Debug|x64
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Debug|x64.Build.0 = Debug|x64
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Debug|x86.Build.0 = Debug|Win32
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Release|x64.ActiveCfg = Release|x64
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Release|x64.Build.0 = Release|x64
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Release|x86.ActiveCfg = Release|Win32
+		{9EBA5DD0-4CA1-4BF4-816D-374798FD0858}.Release|x86.Build.0 = Release|Win32
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Debug|x64.ActiveCfg = Debug|x64
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Debug|x64.Build.0 = Debug|x64
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Debug|x86.Build.0 = Debug|Win32
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Release|x64.ActiveCfg = Release|x64
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Release|x64.Build.0 = Release|x64
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Release|x86.ActiveCfg = Release|Win32
+		{344CB5D2-8E52-4121-BA88-8E9C6BB16CDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
